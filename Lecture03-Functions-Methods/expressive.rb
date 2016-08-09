@@ -6,5 +6,9 @@ end
 puts can_divide_by? 3 # => true
 puts can_divide_by? 0 # => false
 
+"25 to 1" =~ /(\d+)$/
+puts $1
+
+
 
 

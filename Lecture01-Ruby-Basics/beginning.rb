@@ -5,3 +5,5 @@ puts 5 # so is this
 3 # and this
 
 p "Got it" # => Got it
+
+4.times { p "a string"}; p "not a string"
